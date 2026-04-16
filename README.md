@@ -92,12 +92,3 @@ Built a local network chat app using Python and sockets with real-time messaging
 
 I don’t just build systems — I enjoy explaining them, documenting the journey, and helping others bridge the gap between learning and real-world opportunities.
 
----
-
-If you want, I can also:
-
-* Add **GitHub stats badges**
-* Add **cool animations (typing effect, profile views, etc.)**
-* Or tailor it specifically for **recruiters vs developers**
-
-Just tell me 👍
