@@ -1,4 +1,4 @@
-👋 Hi, I'm Faith Akinpelu
+**👋 Hi, I’m Faith Akinpelu.**
 
 💻 Backend Engineer (.NET) | API Builder | Problem Solver
 
