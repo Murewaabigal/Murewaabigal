@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Faith Akinpelu
 
-💻 Backend Engineer (.NET) | API Builder | Problem Solver
+💻 Backend Engineer (.NET) | Python| API Builder | Problem Solver
 
 ---
 
